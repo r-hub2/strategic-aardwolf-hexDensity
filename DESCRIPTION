@@ -34,7 +34,7 @@ NeedsCompilation: yes
 Imports: hexbin, spatstat.geom, grid, grDevices, methods
 Suggests: ggplot2
 RoxygenNote: 7.3.2
-Packaged: 2024-10-04 03:54:14 UTC; hoang
+Packaged: 2024-10-04 03:59:24 UTC; hoang
 Author: Quoc Hoang Nguyen [aut, cre] (<https://orcid.org/0009-0007-2828-7567>),
   Dan Carr [ctb],
   binning routine ported by Nicholas Lewin-Koh [ctb],
